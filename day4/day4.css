@@ -1,0 +1,26 @@
+.card
+{
+    background-color: blue;
+    width:300px;
+    height: 300px;
+    padding: 10px 20px 10px 20px;
+    border:3px solid yellow;
+    border-top: 3px solid pink;
+    border-bottom: 3px solid green;
+    margin : 50px;
+    
+}
+.my img
+{
+    border-radius: 50%;
+    width: 200px;
+    height:200px;
+    position: cover;
+    
+    
+}
+.my{
+    margin:  auto;
+    width: 200px;
+   
+}

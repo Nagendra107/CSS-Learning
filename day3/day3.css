@@ -1,0 +1,21 @@
+.card
+{
+    color:#00ff00;
+    
+   
+    width:400px;
+    height:300px;
+}
+button{
+    background-color:#0000ff;
+
+
+}
+.card img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color:red;
+}

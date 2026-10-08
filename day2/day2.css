@@ -1,0 +1,19 @@
+#main-head
+{
+    color:red;
+    font-size:20px;
+}
+.red
+{
+    color:green;
+    font-size:30px;
+}
+.button
+{
+    color:yellow;
+    font-size: 40px;;
+}
+.button-hover
+{
+    background-color: green;
+}

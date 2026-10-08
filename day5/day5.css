@@ -1,0 +1,57 @@
+.profile
+{
+    text-align: center;
+    
+    color:blue;
+    width:250px;
+    height:300px;
+    letter-spacing:0.5px;
+    font-size:10px;
+    border: 2px solid pink;
+    padding:10px;
+    margin: 0 auto;
+    word-spacing: 1px;
+    display: block;
+
+}
+button{
+    color:green;
+    font-size:20px;
+    padding:10px;
+    background-color: yellow;
+    
+    display: block;
+    margin: 20px auto 0;
+    
+}
+button:hover{
+    color:red;
+    font-size:40px;
+    padding:10px;
+    text-decoration: underline;
+    background-color: pink;
+
+}
+a:hover{
+    color:red;
+    text-decoration: underline;
+
+}
+
+a:link{
+    color:black;
+}
+a:visited{
+    color:orange;
+
+}
+h1{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+    
+}
+h2{
+    color:green;
+    text-decoration: underline;
+}
